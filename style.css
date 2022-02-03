@@ -3,3 +3,44 @@ body {
   height: 100%;
   margin: 0;
 }
+
+header {
+  text-align: center;
+}
+
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 80%;
+}
+
+nav{
+  padding-left: 10px;
+  padding-right: 10px;
+  background-color: salmon;
+}
+
+figcaption {
+  font-size: small;
+  text-align: center;
+}
+
+p {
+  display: block;
+  font-size: medium;
+  text-align: center;
+  margin-top: auto;
+}
+
+div {
+  display: block;
+  float: left;
+  padding-left: 50px;
+  padding-right: 50px;
+  text-align: center;
+  background-color: salmon;
+  margin-left: auto;
+  margin-right: auto;
+ 
+}
